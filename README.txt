@@ -13,3 +13,7 @@ Update, as expected, a working list app on my local machine took an hour, even p
 
 Update day 2, Still got a piece of functioning code on my laptop, and nothing more.
 Have looked over my Angular app from Code institute, which had two controllers, and might implement a second here for something, but only if I can get the damn thing to open on my phone first.....
+
+Update cont.
+
+Ok, so now I have a QR code that does not work, but an apk that I mailed to myself, saved on my phone and installed, to reveal a broken app.
