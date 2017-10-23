@@ -17,3 +17,18 @@ Have looked over my Angular app from Code institute, which had two controllers, 
 Update cont.
 
 Ok, so now I have a QR code that does not work, but an apk that I mailed to myself, saved on my phone and installed, to reveal a broken app.
+
+So, reverting back to the angular site Todo to eliminate that part of the possible problem brought me nothing. Still have a broken app.
+
+Issues as they unfolded;
+
+My QR reader doesn't work!!!! And there I was banging my head off a brick wall about THAT for 
+I don't know how long......
+
+Started from scratch, copied a config.xml and didn't update it properly. DOH.
+I had a CDN loaded copy of Angular... Well, that was BOUND to cause a few issues...
+
+And fatigue induced silliness. I was actually looking at saving data but at this stage....
+
+It looks awful and has no style, but....
+I'll have top look at this again tomorrow. Fatigue at this stage has limited the prospect of productive labour.
